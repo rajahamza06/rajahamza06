@@ -6,12 +6,12 @@
   </a>
 </h1>
 
-<!-- <h5 align="center">
+ <h5 align="center">
   <code><a href="https://www.linkedin.com/in/osmandurdag/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
   <code><a href="https://www.hackerrank.com/zumrudu_anka" title="HackerRank Profile"><img width="22" src="images/hackerrank.png"> HackerRank</a></code>
   <code><a href="https://stackoverflow.com/users/12578260/osman-durdag" title="Stack Overflow Profile"><img width="22" src="images/stackoverflow.svg"> Stack Overflow</a></code>
   <code><a href="https://www.instagram.com/osman__durdag/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
-</h5> -->
+</h5> 
 <br>
 <p align="center">
   Hi, I'm Raja Hamza, Front-end Developer and Graphic Desinger from Pakistan
